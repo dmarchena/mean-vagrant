@@ -91,4 +91,4 @@ _Nota: Esto no borra la configuración de este proyecto ni tu workspace, por lo 
 
 ### Licencia
 
-Este código está disponible con licencia GNU General Public License v3.0 Échale un vistazo al archivo [LICENSE.md](https://github.com/dmarchena/mean-vagrant) para más información.
+Este código está disponible con licencia GNU General Public License v3.0 Échale un vistazo al archivo [LICENSE.md](https://github.com/dmarchena/mean-vagrant/blob/master/LICENSE.md) para más información.
