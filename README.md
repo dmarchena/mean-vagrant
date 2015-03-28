@@ -67,7 +67,7 @@ Sabrás que el proceso ha llegado a su fin correctamente tras unas líneas simil
     ==> mongodb: Machine 'mongodb' has a post `vagrant up` message. This is a message
     ==> mongodb: from the creator of the Vagrantfile, and not from Vagrant itself:
     ==> mongodb: 
-    ==> mongodb: appserver listening on 192.168.56.11
+    ==> mongodb: mongodb listening on 192.168.56.11
     
     ==> appserver: Machine 'appserver' has a post `vagrant up` message. This is a message
     ==> appserver: from the creator of the Vagrantfile, and not from Vagrant itself:
