@@ -57,6 +57,9 @@ Si se desea cambiar el nombre de dicha carpeta compartida o su localización hab
 appserver.vm.synced_folder "../workspace", "/usr/local/src/mean", create: true
 ```
 
+Como se puede deducir de la anterior línea, el directorio del `appserver` donde se alojaran las aplicaciones que despleguemos en Vagrant será: `/usr/local/src/mean`.
+
+
 ### Lanzar las máquinas
 
 1. Haz un clone del repositorio: `git clone git://github.com/dmarchena/mean-vagrant.git`
