@@ -30,7 +30,7 @@ class { 'nodejs':
 # Install the required node modules using NPM
 
 # install express
-package { 'express-generator':
+package { 'express':
   ensure   => present,
   provider => 'npm',
 }
