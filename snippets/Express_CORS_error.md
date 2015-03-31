@@ -3,10 +3,11 @@
 Al ejecutar una aplicación Express en nuestro Vagrant es común encontrarse con este error:
 
 ```
-No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'http://192.168.56.12:3000' is therefore not allowed access.
+No 'Access-Control-Allow-Origin' header is present on the requested resource.  
+Origin 'http://192.168.56.12:3000' is therefore not allowed access.
 ```
 
-Para evitarlo, copia el siguiente código en el `middleware` y adáptalo a las necesidades de la aplicación
+Para evitarlo, copia el siguiente código en el `middleware` y adáptalo a las necesidades de la aplicación:
 
 ```
 app.use(function (req, res, next) {
